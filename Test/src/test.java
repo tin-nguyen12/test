@@ -3,8 +3,9 @@ public class test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("test hello");
-		
+System.out.println("test hello this is me");
+int i = 0;
+int j = 1;
 	}
 
 }
