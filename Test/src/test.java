@@ -9,6 +9,7 @@ public class test {
 		int k = 1;
 		int o = 1;
 		float g = 2.0;
+		String words = "hello";
 	}
 
 }
