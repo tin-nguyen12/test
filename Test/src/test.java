@@ -7,6 +7,8 @@ public class test {
 		int i = 0;
 		int j = 1;
 		int k = 1;
+		int o = 1;
+		float g = 2.0;
 	}
 
 }
