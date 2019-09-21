@@ -11,6 +11,7 @@ public class test {
 		float g = 2.0;
 		String words = "hello";
 		int asda = 2;
+		int asdas = 10;
 	}
 
 }
