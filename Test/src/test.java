@@ -10,6 +10,7 @@ public class test {
 		int o = 1;
 		float g = 2.0;
 		String words = "hello";
+		int asda = 2;
 	}
 
 }
